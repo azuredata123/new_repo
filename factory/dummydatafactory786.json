@@ -1,0 +1,9 @@
+{
+	"name": "dummydatafactory786",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8fb1bc72-d6a3-4418-8023-157f3f3dc4bb",
+		"tenantId": "2722eed2-6a6e-4cd9-8220-38637eeab798"
+	}
+}
